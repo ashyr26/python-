@@ -1,2 +1,5 @@
-name = input("What is your name? ")
-print(f"Hello, {name}")
+def main():
+    name = input("Whats your name? ")
+    print(f"Hello, {name}")
+
+main()
