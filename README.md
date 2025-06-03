@@ -3,5 +3,7 @@ I'm learning Python through Harvard's CS50P course and using this repo to track 
 
 ## 🧪 Lesson 1: Hello World
 'code1.py'
+
 Learned how to use 'print()' and 'input()'
+
 💬: lowkey super fun! starting small, almost 2 hour long lecture, didnt get bored surprisingly! Also started practicing on my own. Kinda fun ngl. xx
